@@ -1,35 +1,36 @@
-🍜 Case Study #1 - Danny's Diner
+# [8-Week SQL Challenge](https://github.com/ndleah/8-Week-SQL-Challenge) 
+![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
+[![View Main Folder](https://img.shields.io/badge/View-Main_Folder-971901?)](https://github.com/ndleah/8-Week-SQL-Challenge)
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/ndleah?tab=repositories)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/ndleah)
 
+# 🍜 Case Study #1 - Danny's Diner
+<p align="center">
+<img src="/IMG/org-1.png" width=40% height=40%>
 
-📕 Table Of Contents
-🛠️ Problem Statement
-📂 Dataset
-🧙‍♂️ Case Study Questions
-🚀 Solutions
-🐋 Limitations
-🛠️ Problem Statement
-Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. Having this deeper connection with his customers will help him deliver a better and more personalised experience for his loyal customers.
+## Table Of Contents
+* [Problem Statement](#problem-statement)
+* [Dataset](#dataset)
+* [Case Study Questions](#case-study-questions)
+* [Solutions](#solutions)
+* [Limitations](#limitations)
+  
+---
 
+## Problem Statement
 
-📂 Dataset
+> Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. Having this deeper connection with his customers will help him deliver a better and more personalised experience for his loyal customers.
+
+ <br /> 
+
+---
+
+## Dataset
 Danny has shared with you 3 key datasets for this case study:
 
-sales
-View table
-menu
-View table
-members
-View table
-🧙‍♂️ Case Study Questions
-68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f4a51584b627a644c54514a4a4b50313736582f67697068792e676966
+### **```sales```**
 
-What is the total amount each customer spent at the restaurant?
-How many days has each customer visited the restaurant?
-What was the first item from the menu purchased by each customer?
-What is the most purchased item on the menu and how many times was it purchased by all customers?
-Which item was the most popular for each customer?
-Which item was purchased first by the customer after they became a member?
-Which item was purchased just before the customer became a member?
-What is the total items and amount spent for each member before they became a member?
-If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
-In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
+<details>
+<summary>
+View table
+</summary>
