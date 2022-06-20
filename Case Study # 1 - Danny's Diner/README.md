@@ -10,7 +10,7 @@
 ## Table Of Contents
 * [Problem Statement](#problem-statement)
 * [Dataset](#dataset)
-* [Entity Relationship Diagram] (#Entity Relationship Diagram)
+* [Entity Relationship Diagram](#Entity Relationship Diagram)
 * [Case Study Questions](#case-study-questions)
 * [Solutions](#solutions)
   ---
@@ -31,8 +31,7 @@ The database contains 3 tables as follows:
 
 ## Entity Relationship Diagram
 ![alt text](https://github.com/ondrejmlynarc/8-Week-SQL-Challenge/blob/main/Case%20Study%20%23%201%20-%20Danny's%20Diner/Entity%20Relationship%20Diagram.png)
-  
-  ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 
 ## Case Study Questions
 1. What is the total amount each customer spent at the restaurant?
