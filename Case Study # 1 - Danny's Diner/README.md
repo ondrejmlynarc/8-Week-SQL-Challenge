@@ -31,7 +31,9 @@ The database contains 3 tables as follows:
 - members: The members table captures the join_date when a customer_id joined the beta version of the Danny’s Diner loyalty program.
 
 ## Entity Relationship Diagram
-![alt text](https://github.com/ondrejmlynarc/8-Week-SQL-Challenge/blob/8-Week-SQL-Challenge/Entity Relationship Diagram.png)
+![alt text](https://github.com/ondrejmlynarc/8-Week-SQL-Challenge/blob/main/Case%20Study%20%23%201%20-%20Danny's%20Diner/Entity%20Relationship%20Diagram.png)
+  
+  ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 ## Case Study Questions
 1. What is the total amount each customer spent at the restaurant?
